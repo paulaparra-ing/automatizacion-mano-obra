@@ -1,5 +1,7 @@
 # Sistema de automatización de registro de mano de obra
 
+🚀 Proyecto implementado en entorno real
+
 ## Descripción
 Sistema desarrollado para automatizar el registro y control de horas trabajadas de personal operativo, eliminando procesos manuales y mejorando la eficiencia en la gestión de información.
 
