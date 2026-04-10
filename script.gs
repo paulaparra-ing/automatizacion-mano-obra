@@ -1,3 +1,6 @@
+// Calcula horas trabajadas entre entrada y salida
+// Clasifica en diurnas, nocturnas y extras
+
 function onFormSubmit(e) {
   const datos = e.namedValues;
   const fechaTexto = datos["Fecha "][0];
