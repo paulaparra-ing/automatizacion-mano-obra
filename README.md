@@ -9,6 +9,13 @@ Sistema desarrollado para automatizar el registro y control de horas trabajadas 
 - Excel / Google Sheets
 - Google Drive
 
+## Flujo del sistema
+- Usuario registra datos en Google Forms
+- Datos se almacenan en hoja de cálculo
+- Apps Script procesa y clasifica horas
+- Información se organiza por trabajador
+- Sistema genera respaldo automático
+
 ## Funcionalidades
 - Captura de datos: fecha, nombre, hora de entrada, hora de salida y obra
 - Cálculo automático de horas trabajadas
